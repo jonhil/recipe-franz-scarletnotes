@@ -1,0 +1,12 @@
+{
+  "id": "scarletnotes",
+  "name": "Scarlet Notes",
+  "version": "1.0.0",
+  "description": "Integration of Scarlet Notes Web Beta",
+  "main": "index.js",
+  "author": "Jonas Hilke <jonashilke@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://scarlet.maubis.com"
+  }
+}
